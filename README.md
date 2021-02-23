@@ -1,2 +1,2 @@
 # Vulkan_Render
-demo for opengl render
+demo for vulkan render
